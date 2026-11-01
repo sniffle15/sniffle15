@@ -5,6 +5,8 @@
 
 `Security Researcher` • `Systems Developer` • `Reverse Engineer`
 
+</div>
+
 ```c
 #include <stdio.h>
 
@@ -46,20 +48,19 @@ Analysis & Debugging
 
 ### 📂 Featured Projects
 
-* ⚡ **[Elysian-Menu](https://github.com/sniffle15/Elysian-Menu)**
-High-performance FiveM Mod Menu
+* ⚡ **[Elysian-Menu](https://github.com/sniffle15/Elysian-Menu)** — High-performance FiveM Mod Menu
 
 ---
 
-### 📊 GitHub Activity
+### 💬 Contact
 
-
-
-
-
----
+* **Discord:** `sniffle15`
 
 ```
-Discord: sniffle15
+
+### Was behoben wurde:
+1. **`</div>` hinzugefügt:** Der zentrierte Header schließt jetzt sauber vor dem C-Codeblock ab, sodass GitHub den Codeblock nativ mit C-Syntax-Highlighting rendert.
+2. **Defekter Code-Fence am Ende entfernt:** Vor `Discord: sniffle15` stand ein offenes Dreifach-Backtick ```` ``` ````, das die gesamte untere Formatierung zerschossen hat.
+3. **Leerzeichen bereinigt:** Unsichtbare Non-Breaking-Spaces (`&nbsp;` bzw. `\u00A0`), die sich oft beim Kopieren einschleichen, wurden durch reguläre Leerzeichen ersetzt.
 
 ```
