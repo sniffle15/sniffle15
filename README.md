@@ -10,8 +10,8 @@
 
 <br/>
 
-<a href="https://github.com/sniffle15">
-  <img src="https://github-readme-stats.vercel.app/api?username=sniffle15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,html,css,lua,git,linux,windows&theme=dark" alt="Tech Stack Icons" />
 </a>
 
 </div>
