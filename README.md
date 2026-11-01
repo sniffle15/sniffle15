@@ -1,9 +1,65 @@
-# I'm sniffle
+```markdown
+<div align="center">
 
-I'm a 20yo dev with about 4 years of experience writing Lua for FiveM. 
+# sniffle
 
-I spend most of my time messing around with game natives, building custom menus, and writing backend logic.
+`Security Researcher` • `Systems Developer` • `Reverse Engineer`
 
-Currently working on [Elysian-Menu](https://github.com/sniffle15/Elysian-Menu).
+```c
+#include <stdio.h>
 
-Feel free to check out my repositories.
+int main() {
+    const char* focus[] = {"Reverse Engineering", "Game Internals", "Low-Level Systems"};
+    printf("Exploring memory, reconstructing logic, and breaking boundaries.\n");
+    return 0;
+}
+
+```
+
+---
+
+### 🔬 Technical Focus & Fields
+
+* **Reverse Engineering & Binary Analysis:** Static & dynamic analysis, dissecting proprietary binaries, reconstructing structs, and inspecting runtime memory.
+* **Game Internals & Engine Modding:** Hooking, pattern scanning, virtual function tables, internal game native discovery, and memory-safe abstractions.
+* **Backend & Systems Architecture:** High-throughput backend services, event-driven socket pipelines, and robust standalone frameworks.
+
+---
+
+### 🛠️ Languages & Toolchain
+
+```txt
+Languages
+├── Systems & Low-Level : C · C++ · Assembly (x86/x64)
+├── General & Scripting : Python · Java
+├── Web & Interface     : TypeScript · JavaScript · HTML/CSS
+└── Embedded / Runtime  : Lua (FiveM Natives / Scripting Runtimes)
+
+Analysis & Debugging
+├── Disassemblers       : IDA Pro · Ghidra
+├── Dynamic Debuggers   : x64dbg · Cheat Engine · Scylla
+└── Inspection & API    : Wireshark · Process Hacker · WinDbg
+
+```
+
+---
+
+### 📂 Featured Projects
+
+* ⚡ **[Elysian-Menu](https://github.com/sniffle15/Elysian-Menu)**
+High-performance FiveM Mod Menu
+
+---
+
+### 📊 GitHub Activity
+
+
+
+
+
+---
+
+```
+Discord: sniffle15
+
+```
