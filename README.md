@@ -10,7 +10,9 @@
 
 <br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sniffle15&theme=tokyo-night&hide_border=true&area=true)](https://github.com/sniffle15)
+<a href="https://github.com/sniffle15">
+  <img src="https://github-readme-stats.vercel.app/api?username=sniffle15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</a>
 
 </div>
 
