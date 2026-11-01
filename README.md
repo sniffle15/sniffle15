@@ -1,18 +1,18 @@
-<h1 align="center">sniffle</h1>
+<div align="center">
 
-<p align="center">
-  <code>Security Researcher</code> • <code>Systems Developer</code> • <code>Reverse Engineer</code>
-</p>
+# sniffle
 
-```c
-#include <stdio.h>
+`Security Researcher` • `Systems Developer` • `Reverse Engineer`
 
-int main() {
-    const char* focus[] = {"Reverse Engineering", "Game Internals", "Low-Level Systems"};
-    printf("Exploring memory, reconstructing logic, and breaking boundaries.\n");
-    return 0;
-}
-```
+<br/>
+
+> *Exploring memory, reconstructing logic, and breaking boundaries.*
+
+<br/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sniffle15&theme=tokyo-night&hide_border=true&area=true)](https://github.com/sniffle15)
+
+</div>
 
 ---
 
